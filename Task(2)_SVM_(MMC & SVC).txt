@@ -1,8 +1,0 @@
-
-                            # Name : Hesham Abdelmohsen Abdallah Hassan
-                            #  ID  : 20180330  
-
-Kindly check My GitHub Account:
-
-https://github.com/Hesham-Abdelmohsen/Learning-From-Data/blob/main/Task(2)_SVM_(MMC%20%26%20SVC).ipynb
-		
